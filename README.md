@@ -1,1 +1,2 @@
 # Binary-Character-Set
+This is an (almost) monospace font and character set designed for the adafruit LED matrix displays. In the C++ file, there is a two dimensional array which contains all the data for the letters, numbers and symbols included in this character set. There is also two functions, one can be used to return the width of an inputted string, in pixels, if it were to be displayed using the second function which displays the string on the LED matrix.
